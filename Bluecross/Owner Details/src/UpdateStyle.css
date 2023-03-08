@@ -1,0 +1,13 @@
+.updatedetails{
+    width:600px;
+    height:700px;
+    border: 2px solid black;
+    padding-left: 50px;
+}
+.mb-3{
+    padding-top: 20px;
+}
+.mb-4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

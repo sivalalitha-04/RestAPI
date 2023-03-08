@@ -1,0 +1,16 @@
+.table{
+    background-color: rgb(199, 222, 230);
+    width:600px;
+    border-radius: 30px;
+    height:200px;
+}
+button{
+    background-color: rgb(249, 249, 249);
+}
+.footprint{
+    width:15px;
+    height:15px;
+    /* border-radius: 50%; */
+    position: absolute;
+    padding:8px 0 0 5px;
+}
